@@ -88,12 +88,19 @@ Classification Report
 🚀 Project Workflow
 
 1️⃣ Load IMDb dataset
+
 2️⃣ Perform text preprocessing
+
 3️⃣ Split dataset into training and testing sets
+
 4️⃣ Apply TF-IDF vectorization for ML models
+
 5️⃣ Train ML models and evaluate performance
+
 6️⃣ Tokenize and pad sequences for deep learning models
+
 7️⃣ Train CNN, RNN, LSTM, and GRU models
+
 8️⃣ Compare results and identify best-performing models
 
 💡 Key Findings
